@@ -1,3 +1,7 @@
+
+主要分支已经废弃，初步功能请移步第一分支！！！
+
+
 # CXI-Web: Coherent X-ray Imaging Web Platform
 
 基于Streamlit和pyCXIM的相干X射线成像Web处理平台。
