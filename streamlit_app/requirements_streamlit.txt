@@ -1,0 +1,13 @@
+# Streamlit前端依赖
+streamlit>=1.28.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+plotly>=5.17.0
+pillow>=10.0.0
+pyvista>=0.40.0
+h5py>=3.9.0
+scipy>=1.11.0
+scikit-image>=0.21.0
+tifffile>=2023.0.0
+openpyxl>=3.1.0
